@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Challenge69",
+            "request": "launch",
+            "mainClass": "Challenge69",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge68",
+            "request": "launch",
+            "mainClass": "Challenge68",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge67",
+            "request": "launch",
+            "mainClass": "Challenge67",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge66",
+            "request": "launch",
+            "mainClass": "Challenge66",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge65",
+            "request": "launch",
+            "mainClass": "Challenge65",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge64",
+            "request": "launch",
+            "mainClass": "Challenge64",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge63",
+            "request": "launch",
+            "mainClass": "Challenge63",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge62",
+            "request": "launch",
+            "mainClass": "Challenge62",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge61",
+            "request": "launch",
+            "mainClass": "Challenge61",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge60",
+            "request": "launch",
+            "mainClass": "Challenge60",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge59",
+            "request": "launch",
+            "mainClass": "Challenge59",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "BreakAndContinue",
+            "request": "launch",
+            "mainClass": "BreakAndContinue",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "ForEachLoop",
+            "request": "launch",
+            "mainClass": "ForEachLoop",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Forloop",
+            "request": "launch",
+            "mainClass": "Forloop",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Dowhileloop",
+            "request": "launch",
+            "mainClass": "Dowhileloop",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge50",
+            "request": "launch",
+            "mainClass": "Challenge50",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge49",
+            "request": "launch",
+            "mainClass": "Challenge49",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge48",
+            "request": "launch",
+            "mainClass": "Challenge48",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge47",
+            "request": "launch",
+            "mainClass": "Challenge47",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge46",
+            "request": "launch",
+            "mainClass": "Challenge46",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge45",
+            "request": "launch",
+            "mainClass": "Challenge45",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Arraysearching",
+            "request": "launch",
+            "mainClass": "Arraysearching",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge40",
+            "request": "launch",
+            "mainClass": "Challenge40",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge41",
+            "request": "launch",
+            "mainClass": "Challenge41",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge42",
+            "request": "launch",
+            "mainClass": "Challenge42",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge43",
+            "request": "launch",
+            "mainClass": "Challenge43",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Challenge44",
+            "request": "launch",
+            "mainClass": "Challenge44",
+            "projectName": "My-unit-6_b71ae35c"
+        },
+        {
+            "type": "java",
+            "name": "Twodimensionalarray",
+            "request": "launch",
+            "mainClass": "Twodimensionalarray",
+            "projectName": "My-unit-6_b71ae35c"
+        }
+    ]
+}

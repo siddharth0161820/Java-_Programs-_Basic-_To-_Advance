@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Challenge27",
+            "request": "launch",
+            "mainClass": "Challenge27",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge26",
+            "request": "launch",
+            "mainClass": "Challenge26",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge25",
+            "request": "launch",
+            "mainClass": "Challenge25",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge24",
+            "request": "launch",
+            "mainClass": "Challenge24",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge23",
+            "request": "launch",
+            "mainClass": "Challenge23",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge22",
+            "request": "launch",
+            "mainClass": "Challenge22",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge21",
+            "request": "launch",
+            "mainClass": "Challenge21",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge20",
+            "request": "launch",
+            "mainClass": "Challenge20",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge19",
+            "request": "launch",
+            "mainClass": "Challenge19",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge18",
+            "request": "launch",
+            "mainClass": "Challenge18",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge17",
+            "request": "launch",
+            "mainClass": "Challenge17",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge16",
+            "request": "launch",
+            "mainClass": "Challenge16",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge15",
+            "request": "launch",
+            "mainClass": "Challenge15",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Logicaloperators",
+            "request": "launch",
+            "mainClass": "Logicaloperators",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Relationaloperator",
+            "request": "launch",
+            "mainClass": "Relationaloperator",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse",
+            "request": "launch",
+            "mainClass": "Ifelse",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Fahrenheit",
+            "request": "launch",
+            "mainClass": "Fahrenheit",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Compoundinterest",
+            "request": "launch",
+            "mainClass": "Compoundinterest",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Simpleinterest",
+            "request": "launch",
+            "mainClass": "Simpleinterest",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Areatriangle",
+            "request": "launch",
+            "mainClass": "Areatriangle",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Perimeterrectangle",
+            "request": "launch",
+            "mainClass": "Perimeterrectangle",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Floatingpointnumbers",
+            "request": "launch",
+            "mainClass": "Floatingpointnumbers",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge8",
+            "request": "launch",
+            "mainClass": "Challenge8",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arithmeticoperator",
+            "request": "launch",
+            "mainClass": "Arithmeticoperator",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Assignment",
+            "request": "launch",
+            "mainClass": "Assignment",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Challenge7",
+            "request": "launch",
+            "mainClass": "Challenge7",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Orderofoperation",
+            "request": "launch",
+            "mainClass": "Orderofoperation",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Shorthandoperators",
+            "request": "launch",
+            "mainClass": "Shorthandoperators",
+            "projectName": "My-unit-4_494af9e4"
+        },
+        {
+            "type": "java",
+            "name": "Unaryoperators",
+            "request": "launch",
+            "mainClass": "Unaryoperators",
+            "projectName": "My-unit-4_494af9e4"
+        }
+    ]
+}
